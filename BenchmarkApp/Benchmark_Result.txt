@@ -1,0 +1,10 @@
+CPU Type: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+Number of Cores: 4
+Random Access Memory: 16GB
+
+
+
+Network Score: 67.293785- Good
+Data Score: 70.326039- Good
+CPU Score: 55.955291- Average
+Performance Score: 62.69

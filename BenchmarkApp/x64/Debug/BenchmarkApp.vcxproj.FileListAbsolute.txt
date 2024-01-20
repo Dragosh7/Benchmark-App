@@ -1,0 +1,6 @@
+T:\an3\sem1\SSC Project\PCbenchmark\BenchmarkApp\x64\Debug\BenchmarkApp.vcxproj.AssemblyReference.cache
+T:\an3\sem1\SSC Project\PCbenchmark\BenchmarkApp\x64\Debug\BenchmarkApp.vcxproj.SuggestedBindingRedirects.cache
+T:\an3\sem1\SSC Project\PCbenchmark\BenchmarkApp\x64\Debug\BenchmarkApp.MainForm.resources
+T:\an3\sem1\SSC Project\PCbenchmark\BenchmarkApp\x64\Debug\BenchmarkApp.vcxproj.GenerateResource.cache
+T:\an3\sem1\SSC Project\PCbenchmark\BenchmarkApp\x64\Debug\BenchmarkApp.exe
+T:\an3\sem1\SSC Project\PCbenchmark\BenchmarkApp\x64\Debug\BenchmarkApp.ProgressForm.resources
